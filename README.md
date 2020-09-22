@@ -2,7 +2,7 @@
 
 ## Right Attitude
 
-Below you will find the epub/azw3/mobi version of [Right Attitude](https://ashintejaniya.org/books-right-attitude) by [Sayadaw U Tejaniya](https://ashintejaniya.org/about), which is officialy only available in PDF format.
+Below you will find the epub/azw3/mobi version of [Right Attitude](https://ashintejaniya.org/books-right-attitude) by [Sayadaw U Tejaniya](https://ashintejaniya.org/about), which is officially only available in PDF format.
 
 **Downloads (V 1.00 - 2020-09-22)**:
 
