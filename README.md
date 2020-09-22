@@ -1,5 +1,4 @@
-# tejaniya
-Various texts by Sayadaw U Tejaniya
+# Tejaniya - Various texts by Sayadaw U Tejaniya
 
 ## Right Attitude
 
