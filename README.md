@@ -16,6 +16,8 @@ Below you will find the epub/azw3/mobi version of [Right Attitude](https://ashin
 
 [The Daily Tejaniya](http://mcgillreport.org/dailytejaniya.htm) is an mailing list about Sayadaw U Tejaniya's teachings, created and actively runned by [Doug Mc Gill](http://mcgillreport.org).
 
+Below you will find the archived emails sent during 2015.
+
 
 ### 2015
 
