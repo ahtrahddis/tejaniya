@@ -12,12 +12,12 @@ Below you will find the epub/azw3/mobi version of [Right Attitude](https://ashin
 - [mobi (old kindle devices)](https://github.com/atrahhdis/tejaniya/raw/master/Right%20Attitude/ebooks/Right%20Attitude%20-%20Ashin%20Tejaniya.mobi)
 
 
-# The Daily Tejaniya
+## The Daily Tejaniya
 
 [The Daily Tejaniya](http://mcgillreport.org/dailytejaniya.htm) is an mailing list about Sayadaw U Tejaniya's teachings, created and actively runned by [Doug Mc Gill](http://mcgillreport.org).
 
 
-## 2015
+### 2015
 
 **Downloads (V 1.00 - 2020-09-25)**:
 
