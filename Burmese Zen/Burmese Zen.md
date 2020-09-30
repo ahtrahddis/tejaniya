@@ -416,9 +416,9 @@ If you practice the right way, the mind must be pleasant and light because of wh
 
 ## About this e-book
 
-This e-book was created by [atrahhdis](https://atrahhdis.github.io/) using [markdown](https://en.wikipedia.org/wiki/Markdown), [pandoc](https://pandoc.org/) and [calibre](https://calibre-ebook.com/).
+This e-book was created by [ahtrahddis](https://ahtrahddis.github.io) using [markdown](https://en.wikipedia.org/wiki/Markdown), [pandoc](https://pandoc.org/) and [calibre](https://calibre-ebook.com/).
 
 
 ## Version
 
-V 1.00 - 2020-09-28
+V 1.01 - 2020-09-30

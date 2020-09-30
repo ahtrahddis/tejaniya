@@ -154,4 +154,4 @@ This e-book was created by [atrahhdis](https://atrahhdis.github.io/) using [mark
 
 ## Version
 
-V 1.03 - 2020-09-26
+V 1.04 - 2020-09-30
